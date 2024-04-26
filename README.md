@@ -1,6 +1,7 @@
 # Cricket-Data-Analytics-Project-Using-Web-Scraping-Python-Pandas-and-Power-BI
 
-#Project Overview:
+# Project Overview:
+
 The aim of this project was to leverage data analytics techniques to determine the best playing 11 for a given cricket tournament, specifically the ICC Cricket World Cup 2022. The project involved web scraping data from the ESPN Cricinfo website, transforming the data using Python and Pandas, and creating interactive dashboards using Power BI for insightful visual representation.
 
 Key Steps:
